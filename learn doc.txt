@@ -1,0 +1,10 @@
+multithreading and monitoring lock
+
+
+1. state synchronized for CRUD methods to make only one Automobile object can access one method at one time
+
+? 2. 
+
+3. update optionSet names continuously, for example ‘color’ to ‘color1’, ‘color1’ to ‘color2’, ‘color2’ to ‘color3’ and so on. Only if nothing wrong has happened, it can be proved that synchronization works. Or synchronization doesn’t work.
+
+? 4.
